@@ -3,7 +3,7 @@
 int main()
 {
 	int n;
-	float p;
+	float p,x;
 	printf("hello world\n");
 	printf("otra linea");
 	scanf("%d",&n);
