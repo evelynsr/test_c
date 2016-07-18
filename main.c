@@ -2,7 +2,7 @@
 
 int main()
 {
-	int n;
+	int n,i;
 	printf("hello world\n");
 	printf("otra linea");
 	scanf("%d",&n);
